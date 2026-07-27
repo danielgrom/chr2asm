@@ -9,4 +9,5 @@ Convert .chr files into .byte directives for ca65.
 
 # options:
   -h, --help            show this help message and exit
+  
   -n BYTES_PER_LINE     Number of bytes per line (default: 8)
