@@ -1,13 +1,14 @@
 # chr2asm
-usage: chr2asm [-h] [-n BYTES_PER_LINE] input output
+Usage: chr2asm [-h] [-n BYTES_PER_LINE] input output
 
 Convert .chr files into .byte directives for ca65.
 
-# positional arguments:
+# Positional arguments:
   input                 Input .chr file
   output                Output .asm file
 
-# options:
-  -h, --help            show this help message and exit
-  
+# Options:
+  -h, --help            show this help message and exit  
   -n BYTES_PER_LINE     Number of bytes per line (default: 8)
+
+  AI made, use at your own risk!
